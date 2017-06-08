@@ -1,45 +1,46 @@
-Ç°¶Ë³£ÓÃÍøÖ·£º£¨ºóÆÚÖğ½¥¼ÇÂ¼£©
-http://www.jq22.com/myhome                              jQuery²å¼ş¿â
-http://www.17sucai.com/space/25963.html          ËØ²ÄÖĞ¹ú-17ËØ²ÄÍø
-http://www.dowebok.com/                                  Ö÷ÒªÊÇÒ»Ğ©ÌØĞ§²å¼ş
-http://www.w3cplus.com/                                   w3cplusÌá¹©ÁË´óÁ¿µÄcss,css3,sass,responsive,mobileµÈ×îĞÂÇ°¶Ë¼¼ÊõÎÄÕÂ¡¢demo¼°ÏÂÔØ×ÊÔ´¡£
-http://www.yyyweb.com/                                   Ç°¶ËÀï×¨×¢ÓÚ·ÖÏí×îÇ°ÑØµÄWeb¿ª·¢¼¼Êõ£¬½Ì³Ì£¬×ÊÔ´ºÍËØ²Ä£¬ÊÇÃæÏòÍøÕ¾¿ª·¢ÈËÔ±ºÍÉè¼ÆÊ¦µÄÑ§Ï°½»Á÷Æ½Ì¨¡£
-http://www.jianshu.com/                                    ¼òÊé
+å‰ç«¯å¸¸ç”¨ç½‘å€ï¼šï¼ˆåæœŸé€æ¸è®°å½•ï¼‰
+http://www.jq22.com/myhome                              jQueryæ’ä»¶åº“
+http://www.17sucai.com/space/25963.html          ç´ æä¸­å›½-17ç´ æç½‘
+http://www.dowebok.com/                                  ä¸»è¦æ˜¯ä¸€äº›ç‰¹æ•ˆæ’ä»¶
+http://www.w3cplus.com/                                   w3cplusæä¾›äº†å¤§é‡çš„css,css3,sass,responsive,mobileç­‰æœ€æ–°å‰ç«¯æŠ€æœ¯æ–‡ç« ã€demoåŠä¸‹è½½èµ„æºã€‚
+http://www.yyyweb.com/                                   å‰ç«¯é‡Œä¸“æ³¨äºåˆ†äº«æœ€å‰æ²¿çš„Webå¼€å‘æŠ€æœ¯ï¼Œæ•™ç¨‹ï¼Œèµ„æºå’Œç´ æï¼Œæ˜¯é¢å‘ç½‘ç«™å¼€å‘äººå‘˜å’Œè®¾è®¡å¸ˆçš„å­¦ä¹ äº¤æµå¹³å°ã€‚
+http://www.jianshu.com/                                    ç®€ä¹¦
 
-ÊÓÆµÍøÕ¾£º
-Ä½¿ÎÍø              http://www.imooc.com/
-¼«¿ÍÑ§Ôº            http://www.jikexueyuan.com/
-ÖÇÄÜÉç              http://www.zhinengshe.com/works.html
-http://www.iguoguo.net/                     °®¹û¹û,¿áÕ¾,H5¿áÕ¾ĞÀÉÍ,¿áÕ¾ĞÀÉÍ,º«¹ú¿áÕ¾,html5¿áÕ¾,jQuery¿áÕ¾,uiËØ²ÄÏÂÔØ,psdÏÂÔØ,ÍøÒ³Ä£°å
-http://www.w3cfuns.com/                     Ç°¶ËÍø¿ª·¢¹¤³ÌÊ¦»¥¶¯Æ½Ì¨
-http://www.htmleaf.com/                     jQuery Ö®¼Ò
-http://qianduanfan.com/                     Ç°¶Ë·¶ - Ç°¶ËÈËµÄ¿ìËÙÏìÓ¦ÎÊ´ğÉçÇø£¬»ã¾ÛÁË´óÁ¿µÄÇ°¶Ë¹¤³ÌÊ¦£¬ÎªÇ°¶Ë°®ºÃÕßÌá¹©Ò»Á÷µÄ×ÊÑ¶¡¢¼¼Êõ½»Á÷¡¢×ÊÔ´ÏÂÔØ£¡
-http://segmentfault.com/                    ×îÇ°ÑØµÄ¼¼ÊõÎÊ´ğ£¬×î´¿´âµÄ¼¼ÊõÇĞ´è¡£ÈÃÄã²»Öª²»¾õÖĞ¿ªÍØÑÛ½ç£¬Ìá¸ß¼¼ÄÜ£¬ÈÏÊ¶¸ü¶àÅóÓÑ¡£
-http://www.daqianduan.com/nav               Ç°¶ËÍøÖ·µ¼º½
-http://www.nowcoder.com/questionCenter      Å£¿ÍÍø ×¨ÒµIT±ÊÊÔÃæÊÔ±¸¿¼Æ½Ì¨
+è§†é¢‘ç½‘ç«™ï¼š
+æ…•è¯¾ç½‘              http://www.imooc.com/
+æå®¢å­¦é™¢            http://www.jikexueyuan.com/
+æ™ºèƒ½ç¤¾              http://www.zhinengshe.com/works.html
+http://www.iguoguo.net/                     çˆ±æœæœ,é…·ç«™,H5é…·ç«™æ¬£èµ,é…·ç«™æ¬£èµ,éŸ©å›½é…·ç«™,html5é…·ç«™,jQueryé…·ç«™,uiç´ æä¸‹è½½,psdä¸‹è½½,ç½‘é¡µæ¨¡æ¿
+http://www.w3cfuns.com/                     å‰ç«¯ç½‘å¼€å‘å·¥ç¨‹å¸ˆäº’åŠ¨å¹³å°
+http://www.htmleaf.com/                     jQuery ä¹‹å®¶
+http://qianduanfan.com/                     å‰ç«¯èŒƒ - å‰ç«¯äººçš„å¿«é€Ÿå“åº”é—®ç­”ç¤¾åŒºï¼Œæ±‡èšäº†å¤§é‡çš„å‰ç«¯å·¥ç¨‹å¸ˆï¼Œä¸ºå‰ç«¯çˆ±å¥½è€…æä¾›ä¸€æµçš„èµ„è®¯ã€æŠ€æœ¯äº¤æµã€èµ„æºä¸‹è½½ï¼
+http://segmentfault.com/                    æœ€å‰æ²¿çš„æŠ€æœ¯é—®ç­”ï¼Œæœ€çº¯ç²¹çš„æŠ€æœ¯åˆ‡ç£‹ã€‚è®©ä½ ä¸çŸ¥ä¸è§‰ä¸­å¼€æ‹“çœ¼ç•Œï¼Œæé«˜æŠ€èƒ½ï¼Œè®¤è¯†æ›´å¤šæœ‹å‹ã€‚
+http://www.daqianduan.com/nav               å‰ç«¯ç½‘å€å¯¼èˆª
+http://www.nowcoder.com/questionCenter      ç‰›å®¢ç½‘ ä¸“ä¸šITç¬”è¯•é¢è¯•å¤‡è€ƒå¹³å°
 
-CSS3:  
-http://ianlunn.github.io/Hover/            Hover.css ÊÇÒ»Ì×»ùÓÚ CSS3 µÄÊó±êĞüÍ£Ğ§¹ûºÍ¶¯»­£¬ÕâĞ©¿ÉÒÔ·Ç³£ÇáËÉµÄ±»Ó¦ÓÃµ½°´Å¥¡¢LOGO ÒÔ¼°Í¼Æ¬µÈÔªËØ¡£ËùÓĞÕâĞ©Ğ§¹û¶¼ÊÇÖ»ĞèÒªµ¥Ò»µÄ±êÇ©£¬±ØÒªµÄÊ±ºòÊ¹ÓÃ before ºÍ after Î±ÔªËØ¡£ÒòÎªÊ¹ÓÃÁË CSS3 ¹ı¶É¡¢×ª»»ºÍ¶¯»­Ğ§¹û£¬Òò´ËÖ»Ö§³Ö Chrome¡¢Firefox ºÍ Safari µÈÏÖ´úä¯ÀÀÆ÷¡£
-https://daneden.github.io/animate.css/?      animate.css ÊÇÒ»¸öÀ´×Ô¹úÍâµÄ CSS3 ¶¯»­¿â£¬ËüÔ¤ÉèÁË¶¶¶¯£¨shake£©¡¢ÉÁË¸£¨flash£©¡¢µ¯Ìø£¨bounce£©¡¢·­×ª£¨flip£©¡¢Ğı×ª£¨rotateIn/rotateOut£©¡¢µ­Èëµ­³ö£¨fadeIn/fadeOut£©µÈ¶à´ï 60 ¶àÖÖ¶¯»­Ğ§¹û£¬¼¸ºõ°üº¬ÁËËùÓĞ³£¼ûµÄ¶¯»­Ğ§¹û¡£
+CSS3:
+http://ianlunn.github.io/Hover/            Hover.css æ˜¯ä¸€å¥—åŸºäº CSS3 çš„é¼ æ ‡æ‚¬åœæ•ˆæœå’ŒåŠ¨ç”»ï¼Œè¿™äº›å¯ä»¥éå¸¸è½»æ¾çš„è¢«åº”ç”¨åˆ°æŒ‰é’®ã€LOGO ä»¥åŠå›¾ç‰‡ç­‰å…ƒç´ ã€‚æ‰€æœ‰è¿™äº›æ•ˆæœéƒ½æ˜¯åªéœ€è¦å•ä¸€çš„æ ‡ç­¾ï¼Œå¿…è¦çš„æ—¶å€™ä½¿ç”¨ before å’Œ after ä¼ªå…ƒç´ ã€‚å› ä¸ºä½¿ç”¨äº† CSS3 è¿‡æ¸¡ã€è½¬æ¢å’ŒåŠ¨ç”»æ•ˆæœï¼Œå› æ­¤åªæ”¯æŒ Chromeã€Firefox å’Œ Safari ç­‰ç°ä»£æµè§ˆå™¨ã€‚
+https://daneden.github.io/animate.css/?      animate.css æ˜¯ä¸€ä¸ªæ¥è‡ªå›½å¤–çš„ CSS3 åŠ¨ç”»åº“ï¼Œå®ƒé¢„è®¾äº†æŠ–åŠ¨ï¼ˆshakeï¼‰ã€é—ªçƒï¼ˆflashï¼‰ã€å¼¹è·³ï¼ˆbounceï¼‰ã€ç¿»è½¬ï¼ˆflipï¼‰ã€æ—‹è½¬ï¼ˆrotateIn/rotateOutï¼‰ã€æ·¡å…¥æ·¡å‡ºï¼ˆfadeIn/fadeOutï¼‰ç­‰å¤šè¾¾ 60 å¤šç§åŠ¨ç”»æ•ˆæœï¼Œå‡ ä¹åŒ…å«äº†æ‰€æœ‰å¸¸è§çš„åŠ¨ç”»æ•ˆæœã€‚
 
-Í¼±êÏÂÔØ£º
+
+å›¾æ ‡ä¸‹è½½ï¼š
 http://www.iconfont.cn/
 
-Éè¼ÆÏà¹Ø£º
-UIÖĞ¹ú£ºhttp://www.ui.cn/
-»¨°êÍø£ºhttp://huaban.com/
-°®¹û¹û£ºhttp://www.iguoguo.net/
-ÓÅÉèÍø£ºhttp://www.uisdc.com/
-Õ¾¿áÍø£ºhttp://www.zcool.com.cn/
-»Æ·äÍø£ºhttp://woofeng.cn/
-ËØ²ÄÌìÏÂ£ºhttp://www.sucaitianxia.com/
-ËØ²ÄÖĞ¹ú£ºhttp://www.sccnn.com/
-EÍøËØ²ÄÍø£ºhttp://www.web07.cn/
-ËùÓĞºÃµÄÍøÖ·¼¯£ºhttp://map90.com/
-Ç§Í¼Íø
+è®¾è®¡ç›¸å…³ï¼š
+UIä¸­å›½ï¼šhttp://www.ui.cn/
+èŠ±ç“£ç½‘ï¼šhttp://huaban.com/
+çˆ±æœæœï¼šhttp://www.iguoguo.net/
+ä¼˜è®¾ç½‘ï¼šhttp://www.uisdc.com/
+ç«™é…·ç½‘ï¼šhttp://www.zcool.com.cn/
+é»„èœ‚ç½‘ï¼šhttp://woofeng.cn/
+ç´ æå¤©ä¸‹ï¼šhttp://www.sucaitianxia.com/
+ç´ æä¸­å›½ï¼šhttp://www.sccnn.com/
+Eç½‘ç´ æç½‘ï¼šhttp://www.web07.cn/
+æ‰€æœ‰å¥½çš„ç½‘å€é›†ï¼šhttp://map90.com/
+åƒå›¾ç½‘
 
-ÆäËûÍøÖ·£º
-À¶µãÍø£ºlandain www.landiannews.com
-Êı×ÖÎ²°Í£ºhttp://www.dgtle.com/
-¹û¿Ç:http://www.guokr.com/
-Öªºõ£ºhttp://www.zhihu.com/
+å…¶ä»–ç½‘å€ï¼š
+è“ç‚¹ç½‘ï¼šlandain www.landiannews.com
+æ•°å­—å°¾å·´ï¼šhttp://www.dgtle.com/
+æœå£³:http://www.guokr.com/
+çŸ¥ä¹ï¼šhttp://www.zhihu.com/
