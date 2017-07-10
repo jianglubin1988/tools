@@ -1,3 +1,11 @@
+sync.sh
+
+#!/bin/sh
+git --version
+git pull origin master
+rsync -av --exclude-from=/home/project/kpdh-php-spider/exclude.list /home/project/kpdh-php-spider/spider/ /var/www/virtual/picsite/home/wwwroot/spider
+
+
 前端常用网址：（后期逐渐记录）
 http://www.jq22.com/myhome                              jQuery插件库
 http://www.17sucai.com/space/25963.html          素材中国-17素材网
